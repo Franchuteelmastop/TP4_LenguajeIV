@@ -5,7 +5,7 @@ const rooms = [
     description: 'Habitación cómoda con cama individual, baño privado y Wi-Fi.',
     price: '$3,000 ARS / noche',
     capacity: 1,
-    image: 'https://via.placeholder.com/400x250?text=Habitaci%C3%B3n+Simple'
+    image: 'https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=60'
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const rooms = [
     description: 'Habitación con dos camas individuales o una matrimonial, TV y escritorio.',
     price: '$5,000 ARS / noche',
     capacity: 2,
-    image: 'https://via.placeholder.com/400x250?text=Habitaci%C3%B3n+Doble'
+    image: 'https://images.unsplash.com/photo-1501117716987-c8e1ecb210c7?auto=format&fit=crop&w=800&q=60'
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const rooms = [
     description: 'Suite espaciosa con cama matrimonial, sala de estar y vista panorámica.',
     price: '$9,000 ARS / noche',
     capacity: 2,
-    image: 'https://via.placeholder.com/400x250?text=Suite+Ejecutiva'
+    image: 'https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=800&q=60'
   }
 ]
 
